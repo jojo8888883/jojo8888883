@@ -15,9 +15,10 @@
 ## Experience
 ### **MIAA Lab in SCUT**(Sep 2024 --  )
 #### *Research Assistant of Embodied Intelligence* (Guangzhou, China)
-- Reproduced Rekep (https://github.com/huangwl18/ReKep) in simulator on laptop(Win11 RTX3060laptop)
-- Reproducing Rekep in simulator on PC(Ubuntu20.04 RTX2080ti) and trying to deploy to a real machine(KINOVA)
-- Investigate papers in the field of embodied intelligence and gain help from many predecessors in this field.
+- Reproduced Rekep (https://github.com/huangwl18/ReKep) in simulator on laptop(Win11 RTX3060laptop).Solved environment management and file management problems, solved package dependency problems and tested prompt generalization (poor).
+- Reproduced Rekep in simulator on PC(Ubuntu20.04 RTX2080ti).Solved the incompatibility problem after Isaac sim's update.
+- Decoupled the code for generating key points in Rekep from the simulation environment, and deployed sam2 to generate key points for real RGB depth images.
+- Investigating papers in the field of embodied intelligence and gain help from many predecessors in this field.
 ### **Festo AG \& Co. KG**(Jul 2024 -- Sep 2024)
 #### *Intern Software Engineer* (Shanghai, China)
 - Carried out the Vision grasping project and ABB robot arm safety door lock project.
