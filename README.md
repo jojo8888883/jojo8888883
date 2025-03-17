@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoeChan-929
+- 👋 Hi, I’m @jojo8888883
 - 👀 I’m interested in embodied intelligence
 - 🌱 I’m currently learning ReKep and RDT-1B and some diffusion policy relevant works.
 - 💞️ I’m looking to collaborate on math and machine learning
