@@ -1,21 +1,24 @@
 - 👋 Hi, I’m @jojo8888883
 - 👀 I’m interested in embodied intelligence
-- 🌱 I’m currently learning ReKep and RDT-1B and some diffusion policy relevant works.
-- 💞️ I’m looking to collaborate on math and machine learning
+- 🌱 I’m currently doing research about Dexterous Manipulation and VLA through multi-modal sensory integration.
+- 💞️ I’m looking to collaborate on Machanist and machine learning
 - 📫 How to reach me chanjoe929@gmail.com
 - 😄 Pronouns: Joe
-- ⚡ Fun fact: I have a Roland CUBE Amplifier and I sing with my firends every Friday nights.
+- ⚡ Fun fact: I have a Roland CUBE Amplifier and I sing with my firends almost every Friday nights.
 
 ----
 ## Education
 - *South China University of Technology*(Expected July 2026)
 - *Bachelor of Engineering in Robotic Engineering*
-- *Relevant Coursework*: Data Structures and Algorithms, Python Programming Basis, C++ Programming Basis, Machine Vision and Sensing System , Artificial Intelligence and its Application, Modern Robotics/Robotic Manipulation(ME 449 Northwestern University), Introduction of Computer Vision(CS231N Stanford University) 
+- *Relevant Coursework*: Data Structures and Algorithms, Python Programming Basis, C++ Programming Basis, Modern Robotics/Robotic Manipulation(ME 449 Northwestern University) , Introduction to Artificial Intelligence (CS 188 UCB) , Introduction of Computer Vision(CS 231n Stanford University) , Deep Reinforcement Learning(CS 285 UCB) , Machine Learning(CS 229 at Standford University) , Advanced Robotics(CS 287 UCB) ,  Robotic Manipulation(MIT 6.800/6.843)
 ----
 ## Experience
-### **MIAA Lab in SCUT**(Sep 2024 --  )
-#### *Research Assistant of Embodied Intelligence* (Guangzhou, China)
-- Reproduced Rekep (https://github.com/huangwl18/ReKep) in simulator on laptop(Win11 RTX3060laptop).Solved environment management and file management problems, solved package dependency problems and tested prompt generalization (poor).
+### **Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)**(Dec 2024 --  )
+#### *Research Assistant* (Shenzhen, China)
+- Doing research about dexterous robotic manipulation systems combining teleoperation and deep reinforcement learning, while advancing embodied intelligence (Vision-Language-Action) through multi-modal sensory integration.
+### **Machine Intelligence and Advanced Adaptation Lab (MIAA) in SCUT**(Sep 2024 --  )
+#### *Research Assistant* (Guangzhou, China)
+- Reproduced Rekep (github.com/huangwl18/ReKep) in simulator on laptop(Win11 RTX3060laptop).Solved environment management and file management problems, solved package dependency problems and tested prompt generalization (poor).
 - Reproduced Rekep in simulator on PC(Ubuntu20.04 RTX2080ti).Solved the incompatibility problem after Isaac sim's update.
 - Decoupled the code for generating key points in Rekep from the simulation environment, and deployed sam2 to generate key points for real RGB depth images.
 - Investigating papers in the field of embodied intelligence and gain help from many predecessors in this field.
