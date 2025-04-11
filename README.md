@@ -45,17 +45,17 @@
 - Used Mosaic data enhancement in the input side for data preprocessing, and operations such as random scaling, random cropping and random arrangement were adopted for the data set to improve the complexity of the data set.
 ----
 ## Skills
-OS: Windows, Linux(Ubuntu)
-Programming Languages: C++, Python, MATLAB, C#, Bash
-Version Control: Git
-Writing: LaTex, Office
-Languages: Chinese(native), English(fluent)
-Additional Courses:
-• Northwestern: Modern Robotics
-• UCB: CS 188 Introduction to Artificial Intelligence (CS 188 UCB)
-• Standford:CS 229 Machine Learning
-• UCB: CS 287 Advanced Robotics(CS 287 UCB)
-• MIT: 6.800/6.843 Robotic Manipulation(MIT 6.800/6.843)
+#### OS: Windows, Linux(Ubuntu)
+#### Programming Languages: C++, Python, MATLAB, C#, Bash
+#### Version Control: Git
+#### Writing: LaTex, Office
+#### Languages: Chinese(native), English(fluent)
+#### Additional Courses:
+##### • Northwestern: Modern Robotics
+##### • UCB: CS 188 Introduction to Artificial Intelligence (CS 188 UCB)
+##### • Standford:CS 229 Machine Learning
+##### • UCB: CS 287 Advanced Robotics(CS 287 UCB)
+##### • MIT: 6.800/6.843 Robotic Manipulation(MIT 6.800/6.843)
 
 <!---
 JoeChan-929/JoeChan-929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
