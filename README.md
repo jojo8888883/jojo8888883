@@ -4,7 +4,7 @@
 
 ----
 ## Research Interest
-- Robotics, Manipulation, Dexterous Manipulation, Tele-operation, VLA, Multi-Modal Perception.
+- Robotics, Dexterous Manipulation, Multimodal Perception.
 ----
 ## Education
 - *South China University of Technology*(Expected July 2026)
@@ -14,35 +14,22 @@
 ## Experience
 ### **Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS)**(Dec 2024 --  )
 #### *Research Assistant* (Shenzhen, China)
-- Doing research about dexterous robotic manipulation systems combining teleoperation and deep reinforcement learning, while advancing embodied intelligence (Vision-Language-Action) through multi-modal sensory integration.
-- Achieved vision-based teleoperation on Allegro Hand(dexterous hand), developed a Python interface for the ALLEGRO HAND’s ROS API using a customized approach to address unique integration needs.
-### **Machine Intelligence and Advanced Adaptation Lab (MIAA) in SCUT**(Sep 2024 --  )
+- Working on a novel approach that significantly reduces the dependency on expensive manual data collection by leveraging video-based imitation learning and generative models.
+- Contributed to developing a single-cam vision-based teleoperation pipeline using Allegro Hand in both reality and simulator(Sapien), developed a Python interface for the Allegro Hand’s ROS API using a customized approach.
+- Maintained ”Grasp What You Want”(arXiv:2412.10694), a system integrating a VLM that fuses visual information and (Referring Expression Representation Enrichment) RERE-processed natural language commands translated from voice, using Grounding-SAM to segment the target object, performing object feature vector extraction get the PCA axis, with a robust grasp planning and optimization pipeline, specifically designed for dexterous hands.
+### **Machine Intelligence and Advanced Adaptation Lab (MIAA) in SCUT**(Sep 2024 -- Dec 2024  )
 #### *Research Assistant* (Guangzhou, China)
-- Reproduced Rekep (github.com/huangwl18/ReKep) in simulator on laptop(Win11 RTX3060laptop).Solved environment management and file management problems, solved package dependency problems and tested prompt generalization (poor).
-- Reproduced Rekep in simulator on PC(Ubuntu20.04 RTX2080ti).Solved the incompatibility problem after Isaac sim's update.
-- Decoupled the code for generating key points in Rekep from the simulation environment, and deployed sam2 to generate key points for real RGB depth images.
-- Investigating papers in the field of embodied intelligence and gain help from many predecessors in this field.
+- Reproduced Rekep using Kinova arm+Realsense d435i+Ubuntu20.04 RTX2080ti.
+- Reproduced ReKep (arXiv:2409.01652), a spatio-temporal reasoning framework employing Python functions to map relational 3D keypoints into numerical costs, implementing hierarchical optimization for SE(3) trajectory planning with real-time closed-loop control at 10Hz, leveraging DINOv2 for semantic keypoint proposal and GPT-4o for automated constraint generation from language instructions, with multi-stage task handling and bimanual coordination capabilities in simulator(Isaac Sim) on laptop(Win11 RTX3060laptop) and PC(Ubuntu20.04 RTX2080ti).
 ### **Festo AG \& Co. KG**(Jul 2024 -- Sep 2024)
 #### *Intern Software Engineer* (Shanghai, China)
-- Carried out the Vision grasping project and ABB robot arm safety door lock project.
-- During the Vision grasping project, proposed a new approach called Continual Learning, to enhance the flexibility and Memory Efficiency of training process and simplify the operation of the B-end users during the fine-tuning process.
-- Worked on the Power App Workflow: Didactic GPrC inquiry project. The understanding of IT infrastructure and workflows enabled me to optimize the project and streamline communication processes across departments.
+- Established dual-OS development environment in my personal laptop for vision-guided manipulation system, resolving GPU-kernel compatibility and DL framework dependencies through systematic debugging.
 ### **National University of Singapore**(Jul 2023 -- Aug 2023)
-#### *Summer Visiting Students* (Singapore)
-- Basically studied about Computer Vision and done an Traffic Sign Recognition project through group work.
-- Adopted HOG (Histogram of Oriented Gradients) for annotating the dataset and utilized the SVC weight file to train our custom model.
-- Implemented Gaussian filtering in the data preprocessing stage, the accuracy increased from 99.3\% to 99.5\%
+#### *Summer School Students* (Singapore)
+- Enrolled in a computer vision summer course with hands-on project experience in traffic signal recognition systems.
 ### **SCUT Racing Autonomous Driving Team**(Jun 2023 -- Aug 2023)
 #### *Intern Team Member* (Guangzhou, China)
-- Basically studied about the component of autonomous driving cars,had a comprehensive insight into the market and the trendy idea of car production.
-- Learned about A*, Q-learning, SLAM, Pure Pursuit, Stanley Method, FSSIM, ROS,which are the base of autonomous driving.
-- Built a virtual environment with Linux system and tried numbers of algorithms in the system including A*,Q-learning,SLAM,Pure Pursuit,Stanley Method to improve the decision planning and motion control.
-----
-## Projects
-### **Image Recognition for Fruit-Picking Robots based on Yolov5**(Nov 2023 -- Dec 2023)
-####  |Yolov5, Mosaic data enhancement, labelImg, Model training|
-- Adopted labelImg to label the data and used Yolov5s weight file to train our own model
-- Used Mosaic data enhancement in the input side for data preprocessing, and operations such as random scaling, random cropping and random arrangement were adopted for the data set to improve the complexity of the data set.
+- Basically studied about autonomous driving,had a shallow insight into ROS and Ubuntu OS.
 ----
 ## Skills
 #### OS: Windows, Linux(Ubuntu)
@@ -50,13 +37,6 @@
 #### Version Control: Git
 #### Writing: LaTex, Office
 #### Languages: Chinese(native), English(fluent)
-#### Additional Courses:
-##### • Northwestern: Modern Robotics
-##### • UCB: CS 188 Introduction to Artificial Intelligence (CS 188 UCB)
-##### • Standford:CS 229 Machine Learning
-##### • UCB: CS 287 Advanced Robotics(CS 287 UCB)
-##### • MIT: 6.800/6.843 Robotic Manipulation(MIT 6.800/6.843)
-
 <!---
 JoeChan-929/JoeChan-929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
